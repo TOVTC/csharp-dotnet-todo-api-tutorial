@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Diagnostics.CodeAnalysis;
 
-namespace ToDoAPI.Models
+namespace ToDoApi.Models
 {
     public class ToDoContext : DbContext
     {
