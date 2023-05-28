@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\To_V1\\projects\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {}
+    "C:\\Users\\To_V1\\projects\\practice-apps\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\To_V1\\projects\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {
+    "C:\\Users\\To_V1\\projects\\practice-apps\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\To_V1\\projects\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\To_V1\\projects\\practice-apps\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
         "projectName": "ToDoAPI",
-        "projectPath": "C:\\Users\\To_V1\\projects\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+        "projectPath": "C:\\Users\\To_V1\\projects\\practice-apps\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
         "packagesPath": "C:\\Users\\To_V1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\To_V1\\projects\\ToDoAPI\\ToDoAPI\\obj\\",
+        "outputPath": "C:\\Users\\To_V1\\projects\\practice-apps\\ToDoAPI\\ToDoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\To_V1\\AppData\\Roaming\\NuGet\\NuGet.Config",
